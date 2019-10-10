@@ -1,0 +1,17 @@
+{
+    "name": "eprom-mbit",
+    "version": "1.0.0",
+    "description": "EEPROM for micro:bit in MakeCode",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "eprom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
