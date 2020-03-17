@@ -1,6 +1,6 @@
-# eprom-mbit
+# eprom-microbit
 ---
-This extension supports EEPROM in MakeCode
+This extension supports EEPROM Write/Read in MakeCode
 
 * I2C address 0x50
 
