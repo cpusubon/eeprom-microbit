@@ -3,7 +3,7 @@
  */
 //% weight=100 color=#1eb0f0 icon="\uf2db" block="EEPROM"
 namespace EEPROM {
-    const i2cAddr = 0x50
+    const i2cAddr = 0xA0
 
     function readn(adr: number, n: number) {
         let mbit = 0
